@@ -5,4 +5,4 @@ With my background in special education and a focus on accessibility, I designed
  
 
 
-Repository for [https://replit.com/@lggomez180/Final-Project-Python-Basics-Interactive-Weather-App](https://replit.com/@lggomez180/Final-Project-Python-Basics-Interactive-Weather-App)
+Check out my project here  [https://replit.com/@lggomez180/Final-Project-Python-Basics-Interactive-Weather-App](https://replit.com/@lggomez180/Final-Project-Python-Basics-Interactive-Weather-App)
