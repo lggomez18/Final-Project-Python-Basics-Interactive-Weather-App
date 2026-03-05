@@ -8,7 +8,7 @@ from datetime import datetime
 #Develop a function to display city weather
 def display_current_weather(city):
   """Display current weather""" 
-  api_key = "290724cd93ad94b31t54c30cca2o800f"
+  api_key = 
   api_url = f"https://api.shecodes.io/weather/v1/current?query={city}&key={api_key}"
 
 #Make a request of api_url to verify it works. Should give you [Response 200]
@@ -32,7 +32,7 @@ def display_current_weather(city):
 #create a function to display the forecast
 def display_forecast_weather(city_name):
   """Display weekly forecast"""
-  api_key = "290724cd93ad94b31t54c30cca2o800f"
+  api_key = 
   api_url = f"https://api.shecodes.io/weather/v1/forecast?query={city_name}&key={api_key}"
   
   response = requests.get(api_url)
